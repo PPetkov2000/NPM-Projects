@@ -2,13 +2,13 @@
 
 1. [Express REST Generator](https://github.com/PPetkov2000/Express-REST-Generator)
 ```sh
-https://github.com/PPetkov2000/Express-REST-Generator
+generate-express-rest-api <app-name>
 ```
 2. [React Starter](https://github.com/PPetkov2000/React-Starter)
 ```sh
-https://github.com/PPetkov2000/React-Starter
+create-react-app-starter <app-name>
 ```
 3. [Sass Styles](https://github.com/PPetkov2000/Sass-Styles)
 ```sh
-https://github.com/PPetkov2000/Sass-Styles
+npm i sass-styles
 ```
